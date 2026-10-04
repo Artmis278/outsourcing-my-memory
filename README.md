@@ -40,9 +40,11 @@ From PowerShell:
 
 ```powershell
 ./launch.ps1
+
 ```
 ## Requirements
 
 - Python 3.10+
 - Windows
+- NVIDIA GPU with CUDA support
 - Dependencies listed in `requirements-lock.txt`
