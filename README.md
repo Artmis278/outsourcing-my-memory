@@ -40,7 +40,7 @@ From PowerShell:
 
 ```powershell
 ./launch.ps1
-
+```
 ## Requirements
 
 - Python 3.10+
